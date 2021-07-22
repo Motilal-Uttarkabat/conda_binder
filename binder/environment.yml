@@ -22,4 +22,5 @@ dependencies:
      - matplotlib
      - scikit-learn
      - numpy
+     - scipy
  
