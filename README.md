@@ -1,4 +1,4 @@
-# trial_conda_binder
+# Machine Learning Exercise
 Basic Conda based Binder
 Python 3.7 and R 3.5.3
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Motilal-Uttarkabat/conda_binder/HEAD)
