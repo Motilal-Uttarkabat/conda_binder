@@ -17,6 +17,10 @@ dependencies:
  - r-shinythemes
  - r-ggpmisc
  - r-caret
+ - r-ellipse
+ - r-e1071
+ - r-kernlab
+ - r-randomforest
  - pip
  - pip:              # Python package manager to install python packages
      - plotly
