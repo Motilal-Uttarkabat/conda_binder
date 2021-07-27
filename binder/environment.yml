@@ -7,14 +7,16 @@ channels:
  
  # Lock the version of packages which are required to have an updated version
 dependencies:
- - r-base=3.5.3      # Version of R
+ - r-base=3.6        # Version of R
  - python=3.7.7      # Version of Python
  - r-dplyr
  - r-ggplot2
- - r-reshape2
  - r-tidyverse
  - r-plotly
- - r-stringr
+ - r-shiny
+ - r-shinythemes
+ - r-ggpmisc
+ - r-caret
  - pip
  - pip:              # Python package manager to install python packages
      - plotly
@@ -22,5 +24,3 @@ dependencies:
      - matplotlib
      - scikit-learn
      - numpy
-     - scipy
- 
